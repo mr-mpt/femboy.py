@@ -11,3 +11,5 @@ class Femboy:
         return "purrrrrr!"
     def hit():
         return "owwie :("
+    def hello():
+        return "hiiii :3"
